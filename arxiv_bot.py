@@ -63,8 +63,8 @@ class ArxivBot:
             "ai_summary": {
                 "enabled": False,
                 "api_key_env": "DASHSCOPE_API_KEY",
-                "base_url": "https://api.deepseek.com/v1",
-                "model": "deepseek-chat",
+                "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+                "model": "qwen-long",
                 "prompt_file": "ai_summary_prompt.txt",
                 "max_papers_to_summarize": 5,
                 "max_workers": 5,  # Number of concurrent requests
