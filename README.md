@@ -9,7 +9,7 @@ You can click this to deploy yours
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/maydomine/arxiv_rss_bot)
 ## 📊 Statistics
 
-- **Last Updated**: 2025-12-05 11:02:57 UTC
+- **Last Updated**: 2025-12-05 11:11:34 UTC
 - **Total Papers Found**: 30
 - **Categories Monitored**: cs.AI, cs.CL, cs.DC, cs.LG
 
@@ -141,7 +141,21 @@ Large Language Diffusion Models (LLDMs) benefit from a flexible decoding mechani
 
 ---
 
-### 10. [On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral](https://arxiv.org/abs/2512.04220)
+### 10. [TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103)
+
+**Authors**: Xiaochuang Han, Youssef Emad, Melissa Hall, John Nguyen, Karthik Padthe, Liam Robbins, Amir Bar, Delong Chen, Michal Drozdzal, Maha Elbayad, Yushi Hu, Shang-Wen Li, Sreya Dutta Roy, Jakob Verbeek, XuDong Wang, Marjan Ghazvininejad, Luke Zettlemoyer, Emily Dinan  
+**Category**: cs.LG  
+**Published**: 2025-12-05  
+**Score**: 6.5  
+**Type**: new  
+**ArXiv ID**: 2512.05103v1  
+
+#### Abstract
+Video generation models are rapidly advancing, but can still struggle with complex video outputs that require significant semantic branching or repeated high-level reasoning about what should happen next. In this paper, we introduce a new class of omni video-text models that integrate ideas from rec...
+
+---
+
+### 11. [On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral](https://arxiv.org/abs/2512.04220)
 
 **Authors**: Wenlong Deng, Yushu Li, Boying Gong, Yi Ren, Christos Thrampoulidis, Xiaoxiao Li  
 **Category**: cs.CL  
@@ -155,7 +169,7 @@ Tool-integrated (TI) reinforcement learning (RL) enables large language models (
 
 ---
 
-### 11. [EtCon: Edit-then-Consolidate for Reliable Knowledge Editing](https://arxiv.org/abs/2512.04753)
+### 12. [EtCon: Edit-then-Consolidate for Reliable Knowledge Editing](https://arxiv.org/abs/2512.04753)
 
 **Authors**: Ruilin Li, Yibin Wang, Wenhong Zhu, Chenglin Li, Jinghao Zhang, Chenliang Li, Junchi Yan, Jiaqi Wang  
 **Category**: cs.CL  
@@ -169,7 +183,7 @@ Knowledge editing aims to update specific facts in large language models (LLMs) 
 
 ---
 
-### 12. [SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs](https://arxiv.org/abs/2512.04868)
+### 13. [SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs](https://arxiv.org/abs/2512.04868)
 
 **Authors**: Hao Wang, Jialun Zhong, Changcheng Wang, Zhujun Nie, Zheng Li, Shunyu Yao, Yanzeng Li, Xinchi Li  
 **Category**: cs.CL  
@@ -183,7 +197,7 @@ Knowledge-based conversational question answering (KBCQA) confronts persistent c
 
 ---
 
-### 13. [The Initialization Determines Whether In-Context Learning Is Gradient Descent](https://arxiv.org/abs/2512.04268)
+### 14. [The Initialization Determines Whether In-Context Learning Is Gradient Descent](https://arxiv.org/abs/2512.04268)
 
 **Authors**: Shifeng Xie, Rui Yuan, Simone Rossi, Thomas Hannagan  
 **Category**: cs.LG  
@@ -197,7 +211,7 @@ In-context learning (ICL) in large language models (LLMs) is a striking phenomen
 
 ---
 
-### 14. [GRASP: GRouped Activation Shared Parameterization for Parameter-Efficient Fine-Tuning and Robust Inference of Transformers](https://arxiv.org/abs/2512.04296)
+### 15. [GRASP: GRouped Activation Shared Parameterization for Parameter-Efficient Fine-Tuning and Robust Inference of Transformers](https://arxiv.org/abs/2512.04296)
 
 **Authors**: Malyaban Bal, Abhronil Sengupta  
 **Category**: cs.LG  
@@ -211,7 +225,7 @@ Parameter-efficient fine-tuning (PEFT) provides a scalable alternative to full-m
 
 ---
 
-### 15. [QoSDiff: An Implicit Topological Embedding Learning Framework Leveraging Denoising Diffusion and Adversarial Attention for Robust QoS Prediction](https://arxiv.org/abs/2512.04596)
+### 16. [QoSDiff: An Implicit Topological Embedding Learning Framework Leveraging Denoising Diffusion and Adversarial Attention for Robust QoS Prediction](https://arxiv.org/abs/2512.04596)
 
 **Authors**: Guanchen Du, Jianlong Xu, Wei Wei  
 **Category**: cs.LG  
@@ -225,7 +239,7 @@ Accurate Quality of Service (QoS) prediction is fundamental to service computing
 
 ---
 
-### 16. [LangSAT: A Novel Framework Combining NLP and Reinforcement Learning for SAT Solving](https://arxiv.org/abs/2512.04374)
+### 17. [LangSAT: A Novel Framework Combining NLP and Reinforcement Learning for SAT Solving](https://arxiv.org/abs/2512.04374)
 
 **Authors**: Muyu Pan, Matthew Walter, Dheeraj Kodakandla, Mahfuza Farooque  
 **Category**: cs.CL  
@@ -239,7 +253,7 @@ Our work presents a novel reinforcement learning (RL) based framework to optimiz
 
 ---
 
-### 17. [Formal Specification for Fast ACS: Low-Latency File-Based Ordered Message Delivery at Scale](https://arxiv.org/abs/2512.04096)
+### 18. [Formal Specification for Fast ACS: Low-Latency File-Based Ordered Message Delivery at Scale](https://arxiv.org/abs/2512.04096)
 
 **Authors**: Sushant Kumar Gupta, Anil Raghunath Iyer, Chang Yu, Neel Bagora, Olivier Pomerleau, Vivek Kumar, Prunthaban Kanthakumar  
 **Category**: cs.DC  
@@ -253,7 +267,7 @@ Low-latency message delivery is crucial for real-time systems. Data originating 
 
 ---
 
-### 18. [Federated Learning for Terahertz Wireless Communication](https://arxiv.org/abs/2512.04984)
+### 19. [Federated Learning for Terahertz Wireless Communication](https://arxiv.org/abs/2512.04984)
 
 **Authors**: O. Tansel Baydas, Ozgur B. Akan  
 **Category**: cs.DC  
@@ -267,7 +281,7 @@ The convergence of Terahertz (THz) communications and Federated Learning (FL) pr
 
 ---
 
-### 19. [Efficient Generative Transformer Operators For Million-Point PDEs](https://arxiv.org/abs/2512.04974)
+### 20. [Efficient Generative Transformer Operators For Million-Point PDEs](https://arxiv.org/abs/2512.04974)
 
 **Authors**: Armand Kassa\"i Koupa\"i, Lise Le Boudec, Patrick Gallinari  
 **Category**: cs.LG  
@@ -281,7 +295,7 @@ We introduce ECHO, a transformer-operator framework for generating million-point
 
 ---
 
-### 20. [David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073)
+### 21. [David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073)
 
 **Authors**: Shashwat Shankar, Subhranshu Pandey, Innocent Dengkhw Mochahari, Bhabesh Mali, Animesh Basak Chowdhury, Sukanta Bhattacharjee, Chandan Karfa  
 **Category**: cs.LG  
@@ -295,7 +309,35 @@ Large Language Model(LLM) inference demands massive compute and energy, making d
 
 ---
 
-### 21. [EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion](https://arxiv.org/abs/2512.04545)
+### 22. [DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization](https://arxiv.org/abs/2512.03607)
+
+**Authors**: Yusen Wu, Xiaotie Deng  
+**Category**: cs.AI  
+**Published**: 2025-12-05  
+**Score**: 5.0  
+**Type**: new  
+**ArXiv ID**: 2512.03607v1  
+
+#### Abstract
+This paper proposes DeepRule, an integrated framework for automated business rule generation in retail assortment and pricing optimization. Addressing the systematic misalignment between existing theoretical models and real-world economic complexities, we identify three critical gaps: (1) data modal...
+
+---
+
+### 23. [MASE: Interpretable NLP Models via Model-Agnostic Saliency Estimation](https://arxiv.org/abs/2512.04386)
+
+**Authors**: Zhou Yang, Shunyan Luo, Jiazhen Zhu, Fang Jin  
+**Category**: cs.CL  
+**Published**: 2025-12-05  
+**Score**: 5.0  
+**Type**: new  
+**ArXiv ID**: 2512.04386v1  
+
+#### Abstract
+Deep neural networks (DNNs) have made significant strides in Natural Language Processing (NLP), yet their interpretability remains elusive, particularly when evaluating their intricate decision-making processes. Traditional methods often rely on post-hoc interpretations, such as saliency maps or fea...
+
+---
+
+### 24. [EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion](https://arxiv.org/abs/2512.04545)
 
 **Authors**: Pengfei Cao, Zeao Ji, Daojian Zeng, Jun Zhao, Kang Liu  
 **Category**: cs.CL  
@@ -309,7 +351,7 @@ Adjusting the outdated knowledge of large language models (LLMs) after deploymen
 
 ---
 
-### 22. [AdmTree: Compressing Lengthy Context with Adaptive Semantic Trees](https://arxiv.org/abs/2512.04550)
+### 25. [AdmTree: Compressing Lengthy Context with Adaptive Semantic Trees](https://arxiv.org/abs/2512.04550)
 
 **Authors**: Yangning Li, Shaoshen Chen, Yinghui Li, Yankai Chen, Hai-Tao Zheng, Hui Wang, Wenhao Jiang, Philip S. Yu  
 **Category**: cs.CL  
@@ -323,7 +365,35 @@ The quadratic complexity of self-attention constrains Large Language Models (LLM
 
 ---
 
-### 23. [RGE-GCN: Recursive Gene Elimination with Graph Convolutional Networks for RNA-seq based Early Cancer Detection](https://arxiv.org/abs/2512.04333)
+### 26. [Studying Various Activation Functions and Non-IID Data for Machine Learning Model Robustness](https://arxiv.org/abs/2512.04264)
+
+**Authors**: Long Dang, Thushari Hapuarachchi, Kaiqi Xiong, Jing Lin  
+**Category**: cs.LG  
+**Published**: 2025-12-05  
+**Score**: 5.0  
+**Type**: new  
+**ArXiv ID**: 2512.04264v1  
+
+#### Abstract
+Adversarial training is an effective method to improve the machine learning (ML) model robustness. Most existing studies typically consider the Rectified linear unit (ReLU) activation function and centralized training environments. In this paper, we study the ML model robustness using ten different ...
+
+---
+
+### 27. [Data-regularized Reinforcement Learning for Diffusion Models at Scale](https://arxiv.org/abs/2512.04332)
+
+**Authors**: Haotian Ye, Kaiwen Zheng, Jiashu Xu, Puheng Li, Huayu Chen, Jiaqi Han, Sheng Liu, Qinsheng Zhang, Hanzi Mao, Zekun Hao, Prithvijit Chattopadhyay, Dinghao Yang, Liang Feng, Maosheng Liao, Junjie Bai, Ming-Yu Liu, James Zou, Stefano Ermon  
+**Category**: cs.LG  
+**Published**: 2025-12-05  
+**Score**: 5.0  
+**Type**: new  
+**ArXiv ID**: 2512.04332v1  
+
+#### Abstract
+Aligning generative diffusion models with human preferences via reinforcement learning (RL) is critical yet challenging. Most existing algorithms are often vulnerable to reward hacking, such as quality degradation, over-stylization, or reduced diversity. Our analysis demonstrates that this can be at...
+
+---
+
+### 28. [RGE-GCN: Recursive Gene Elimination with Graph Convolutional Networks for RNA-seq based Early Cancer Detection](https://arxiv.org/abs/2512.04333)
 
 **Authors**: Shreyas Shende, Varsha Narayanan, Vishal Fenn, Yiran Huang, Dincer Goksuluk, Gaurav Choudhary, Melih Agraz, Mengjia Xu  
 **Category**: cs.LG  
@@ -337,7 +407,7 @@ Early detection of cancer plays a key role in improving survival rates, but iden
 
 ---
 
-### 24. [Score Matching for Estimating Finite Point Processes](https://arxiv.org/abs/2512.04617)
+### 29. [Score Matching for Estimating Finite Point Processes](https://arxiv.org/abs/2512.04617)
 
 **Authors**: Haoqun Cao, Yixuan Zhang, Feng Zhou  
 **Category**: cs.LG  
@@ -351,7 +421,7 @@ Score matching estimators have garnered significant attention in recent years be
 
 ---
 
-### 25. [Multi-Agent Reinforcement Learning for Intraday Operating Rooms Scheduling under Uncertainty](https://arxiv.org/abs/2512.04918)
+### 30. [Multi-Agent Reinforcement Learning for Intraday Operating Rooms Scheduling under Uncertainty](https://arxiv.org/abs/2512.04918)
 
 **Authors**: Kailiang Liu, Ying Chen, Ralf Bornd\"orfer, Thorsten Koch  
 **Category**: cs.LG  
@@ -365,80 +435,10 @@ Intraday surgical scheduling is a multi-objective decision problem under uncerta
 
 ---
 
-### 26. [TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103)
-
-**Authors**: Xiaochuang Han, Youssef Emad, Melissa Hall, John Nguyen, Karthik Padthe, Liam Robbins, Amir Bar, Delong Chen, Michal Drozdzal, Maha Elbayad, Yushi Hu, Shang-Wen Li, Sreya Dutta Roy, Jakob Verbeek, XuDong Wang, Marjan Ghazvininejad, Luke Zettlemoyer, Emily Dinan  
-**Category**: cs.LG  
-**Published**: 2025-12-05  
-**Score**: 5.0  
-**Type**: new  
-**ArXiv ID**: 2512.05103v1  
-
-#### Abstract
-Video generation models are rapidly advancing, but can still struggle with complex video outputs that require significant semantic branching or repeated high-level reasoning about what should happen next. In this paper, we introduce a new class of omni video-text models that integrate ideas from rec...
-
----
-
-### 27. [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
-
-**Authors**: Prakhar Kaushik, Shravan Chaudhari, Ankit Vaidya, Rama Chellappa, Alan Yuille  
-**Category**: cs.LG  
-**Published**: 2025-12-05  
-**Score**: 5.0  
-**Type**: new  
-**ArXiv ID**: 2512.05117v1  
-
-#### Abstract
-We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates that neural networks systematically converge to shared spectral subspaces regardless of initialization...
-
----
-
-### 28. [Multi-Agent Reinforcement Learning with Communication-Constrained Priors](https://arxiv.org/abs/2512.03528)
-
-**Authors**: Guang Yang, Tianpei Yang, Jingwen Qiao, Yanqing Wu, Jing Huo, Xingguo Chen, Yang Gao  
-**Category**: cs.AI  
-**Published**: 2025-12-05  
-**Score**: 4.5  
-**Type**: new  
-**ArXiv ID**: 2512.03528v1  
-
-#### Abstract
-Communication is one of the effective means to improve the learning of cooperative policy in multi-agent systems. However, in most real-world scenarios, lossy communication is a prevalent issue. Existing multi-agent reinforcement learning with communication, due to their limited scalability and robu...
-
----
-
-### 29. [Hybrid Quantum-Classical Autoencoders for Unsupervised Network Intrusion Detection](https://arxiv.org/abs/2512.05069)
-
-**Authors**: Mohammad Arif Rasyidi, Omar Alhussein, Sami Muhaidat, Ernesto Damiani  
-**Category**: cs.LG  
-**Published**: 2025-12-05  
-**Score**: 4.5  
-**Type**: new  
-**ArXiv ID**: 2512.05069v1  
-
-#### Abstract
-Unsupervised anomaly-based intrusion detection requires models that can generalize to attack patterns not observed during training. This work presents the first large-scale evaluation of hybrid quantum-classical (HQC) autoencoders for this task. We construct a unified experimental framework that ite...
-
----
-
-### 30. [DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization](https://arxiv.org/abs/2512.03607)
-
-**Authors**: Yusen Wu, Xiaotie Deng  
-**Category**: cs.AI  
-**Published**: 2025-12-05  
-**Score**: 4.0  
-**Type**: new  
-**ArXiv ID**: 2512.03607v1  
-
-#### Abstract
-This paper proposes DeepRule, an integrated framework for automated business rule generation in retail assortment and pricing optimization. Addressing the systematic misalignment between existing theoretical models and real-world economic complexities, we identify three critical gaps: (1) data modal...
-
----
-
 ## 🔧 Configuration
 
 This bot is configured to look for papers containing the following keywords:
-- Linear Attention, LLM, RL, RLHF, Inference, Training, Attention, Pipeline, MOE, Sparse, Quantization, Speculative, Efficient, Efficiency, Framework, Parallel, Distributed, Kernel, Decode, Decoding, Prefill, Throughput, Fast, Network, Hardware, Cluster, FP8, FP4, Optimization, Scalable, Communication
+- Video, Linear, LLM, RL, RLHF, Inference, Training, Attention, Pipeline, MOE, Sparse, Quantization, Speculative, Efficient, Efficiency, Framework, Parallel, Distributed, Kernel, Decode, Decoding, Prefill, Throughput, Fast, Network, Hardware, Cluster, FP8, FP4, Optimization, Scalable, Communication
 
 ## 📅 Schedule
 
