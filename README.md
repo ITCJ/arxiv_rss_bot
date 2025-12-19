@@ -9,709 +9,709 @@ You can click this to deploy yours
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/maydomine/arxiv_rss_bot)
 ## 📊 Statistics
 
-- **Last Updated**: 2025-12-18 06:16:59 UTC
+- **Last Updated**: 2025-12-19 05:48:43 UTC
 - **Total Papers Found**: 50
 - **Categories Monitored**: cs.AI, cs.LG, cs.CL, cs.CV
 
 ## 📚 Recent Papers
 
-### 1. [Unreliable Uncertainty Estimates with Monte Carlo Dropout](https://arxiv.org/abs/2512.14851)
+### 1. [Phishing Detection System: An Ensemble Approach Using Character-Level CNN and Feature Engineering](https://arxiv.org/abs/2512.16717)
 
-**Authors**: Aslak Djupsk{\aa}s, Alexander Johannes Stasik, Signe Riemer-S{\o}rensen  
+**Authors**: Rudra Dubey, Arpit Mani Tripathi, Archit Srivastava, Sarvpal Singh  
 **Category**: cs.LG  
-**Published**: 2025-12-18  
+**Published**: 2025-12-19  
 **Score**: 3.0  
 **Type**: new  
-**ArXiv ID**: 2512.14851v1  
+**ArXiv ID**: 2512.16717v1  
 
 #### Abstract
-Reliable uncertainty estimation is crucial for machine learning models, especially in safety-critical domains. While exact Bayesian inference offers a principled approach, it is often computationally infeasible for deep neural networks. Monte Carlo dropout (MCD) was proposed as an efficient approxim...
+In actuality, phishing attacks remain one of the most prevalent cybersecurity risks in existence today, with malevolent actors constantly changing their strategies to successfully trick users. This paper presents an AI model for a phishing detection system that uses an ensemble approach to combine c...
 
 ---
 
-### 2. [Deep Learning and Elicitability for McKean-Vlasov FBSDEs With Common Noise](https://arxiv.org/abs/2512.14967)
+### 2. [GFLAN: Generative Functional Layouts](https://arxiv.org/abs/2512.16275)
 
-**Authors**: Felipe J. P. Antunes, Yuri F. Saporito, Sebastian Jaimungal  
+**Authors**: Mohamed Abouagour, Eleftherios Garyfallidis  
+**Category**: cs.CV  
+**Published**: 2025-12-19  
+**Score**: 3.0  
+**Type**: new  
+**ArXiv ID**: 2512.16275v1  
+
+#### Abstract
+Automated floor plan generation lies at the intersection of combinatorial search, geometric constraint satisfaction, and functional design requirements -- a confluence that has historically resisted a unified computational treatment. While recent deep learning approaches have improved the state of t...
+
+---
+
+### 3. [SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks](https://arxiv.org/abs/2512.15938)
+
+**Authors**: Vegard Flovik  
 **Category**: cs.LG  
-**Published**: 2025-12-18  
+**Published**: 2025-12-19  
 **Score**: 2.5  
 **Type**: new  
-**ArXiv ID**: 2512.14967v1  
+**ArXiv ID**: 2512.15938v1  
 
 #### Abstract
-We present a novel numerical method for solving McKean-Vlasov forward-backward stochastic differential equations (MV-FBSDEs) with common noise, combining Picard iterations, elicitability and deep learning. The key innovation involves elicitability to derive a path-wise loss function, enabling effici...
+Deep neural networks achieve impressive performance but remain difficult to interpret and control. We present SALVE (Sparse Autoencoder-Latent Vector Editing), a unified "discover, validate, and control" framework that bridges mechanistic interpretability and model editing. Using an $\ell_1$-regular...
 
 ---
 
-### 3. [Generalization and Feature Attribution in Machine Learning Models for Crop Yield and Anomaly Prediction in Germany](https://arxiv.org/abs/2512.15140)
+### 4. [Pretrained Battery Transformer (PBT): A battery life prediction foundation model](https://arxiv.org/abs/2512.16334)
 
-**Authors**: Roland Baatz  
+**Authors**: Ruifeng Tan, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang  
 **Category**: cs.LG  
-**Published**: 2025-12-18  
+**Published**: 2025-12-19  
 **Score**: 2.5  
 **Type**: new  
-**ArXiv ID**: 2512.15140v1  
+**ArXiv ID**: 2512.16334v1  
 
 #### Abstract
-This study examines the generalization performance and interpretability of machine learning (ML) models used for predicting crop yield and yield anomalies in Germany's NUTS-3 regions. Using a high-quality, long-term dataset, the study systematically compares the evaluation and temporal validation be...
+Early prediction of battery cycle life is essential for accelerating battery research, manufacturing, and deployment. Although machine learning methods have shown encouraging results, progress is hindered by data scarcity and heterogeneity arising from diverse aging conditions. In other fields, foun...
 
 ---
 
-### 4. [Quantum Machine Learning for Cybersecurity: A Taxonomy and Future Directions](https://arxiv.org/abs/2512.15286)
+### 5. [Blog Data Showdown: Machine Learning vs Neuro-Symbolic Models for Gender Classification](https://arxiv.org/abs/2512.16687)
 
-**Authors**: Siva Sai, Ishika Goyal, Shubham Sharma, Sri Harshita Manuri, Vinay Chamola, Rajkumar Buyya  
+**Authors**: Natnael Tilahun Sinshaw, Mengmei He, Tadesse K. Bahiru, Sudhir Kumar Mohapatra  
 **Category**: cs.LG  
-**Published**: 2025-12-18  
+**Published**: 2025-12-19  
 **Score**: 2.5  
 **Type**: new  
-**ArXiv ID**: 2512.15286v1  
+**ArXiv ID**: 2512.16687v1  
 
 #### Abstract
-The increasing number of cyber threats and rapidly evolving tactics, as well as the high volume of data in recent years, have caused classical machine learning, rules, and signature-based defence strategies to fail, rendering them unable to keep up. An alternative, Quantum Machine Learning (QML), ha...
+Text classification problems, such as gender classification from a blog, have been a well-matured research area that has been well studied using machine learning algorithms. It has several application domains in market analysis, customer recommendation, and recommendation systems. This study present...
 
 ---
 
-### 5. [When a Nation Speaks: Machine Learning and NLP in People's Sentiment Analysis During Bangladesh's 2024 Mass Uprising](https://arxiv.org/abs/2512.15547)
+### 6. [Towards Reproducibility in Predictive Process Mining: SPICE - A Deep Learning Library](https://arxiv.org/abs/2512.16715)
 
-**Authors**: Md. Samiul Alim, Mahir Shahriar Tamim, Maisha Rahman, Tanvir Ahmed Khan, Md Mushfique Anwar  
-**Category**: cs.CL  
-**Published**: 2025-12-18  
+**Authors**: Oliver Stritzel, Nick H\"uhnerbein, Simon Rauch, Itzel Zarate, Lukas Fleischmann, Moike Buck, Attila Lischka, Christian Frey  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
 **Score**: 2.5  
 **Type**: new  
-**ArXiv ID**: 2512.15547v1  
+**ArXiv ID**: 2512.16715v1  
 
 #### Abstract
-Sentiment analysis, an emerging research area within natural language processing (NLP), has primarily been explored in contexts like elections and social media trends, but there remains a significant gap in understanding emotional dynamics during civil unrest, particularly in the Bangla language. Ou...
+In recent years, Predictive Process Mining (PPM) techniques based on artificial neural networks have evolved as a method for monitoring the future behavior of unfolding business processes and predicting Key Performance Indicators (KPIs). However, many PPM approaches often lack reproducibility, trans...
 
 ---
 
-### 6. [LLM as a Neural Architect: Controlled Generation of Image Captioning Models Under Strict API Contracts](https://arxiv.org/abs/2512.14706)
+### 7. [Yuan-TecSwin: A text conditioned Diffusion model with Swin-transformer blocks](https://arxiv.org/abs/2512.16586)
 
-**Authors**: Krunal Jesani, Dmitry Ignatov, Radu Timofte  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 2.0  
+**Authors**: Shaohua Wu, Tong Yu, Shenling Wang, Xudong Zhao  
+**Category**: cs.CV  
+**Published**: 2025-12-19  
+**Score**: 2.5  
 **Type**: new  
-**ArXiv ID**: 2512.14706v1  
+**ArXiv ID**: 2512.16586v1  
 
 #### Abstract
-Neural architecture search (NAS) traditionally requires significant human expertise or automated trial-and-error to design deep learning models. We present NN-Caption, an LLM-guided neural architecture search pipeline that generates runnable image-captioning models by composing CNN encoders from LEM...
+Diffusion models have shown remarkable capacity in image synthesis based on their U-shaped architecture and convolutional neural networks (CNN) as basic blocks. The locality of the convolution operation in CNN may limit the model's ability to understand long-range semantic information. To address th...
 
 ---
 
-### 7. [Improving Underwater Acoustic Classification Through Learnable Gabor Filter Convolution and Attention Mechanisms](https://arxiv.org/abs/2512.14714)
-
-**Authors**: Lucas Cesar Ferreira Domingos, Russell Brinkworth, Paulo Eduardo Santos, Karl Sammut  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 2.0  
-**Type**: new  
-**ArXiv ID**: 2512.14714v1  
-
-#### Abstract
-Remotely detecting and classifying underwater acoustic targets is critical for environmental monitoring and defence. However, the complex nature of ship-radiated and environmental underwater noise poses significant challenges to accurate signal processing. While recent advancements in machine learni...
-
----
-
-### 8. [SigMA: Path Signatures and Multi-head Attention for Learning Parameters in fBm-driven SDEs](https://arxiv.org/abs/2512.15088)
-
-**Authors**: Xianglin Wu, Chiheb Ben Hammouda, Cornelis W. Oosterlee  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 2.0  
-**Type**: new  
-**ArXiv ID**: 2512.15088v1  
-
-#### Abstract
-Stochastic differential equations (SDEs) driven by fractional Brownian motion (fBm) are increasingly used to model systems with rough dynamics and long-range dependence, such as those arising in quantitative finance and reliability engineering. However, these processes are non-Markovian and lack a s...
-
----
-
-### 9. [How Many Heads Make an SSM? A Unified Framework for Attention and State Space Models](https://arxiv.org/abs/2512.15115)
-
-**Authors**: Ali Ghodsi  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 2.0  
-**Type**: new  
-**ArXiv ID**: 2512.15115v1  
-
-#### Abstract
-Sequence modeling has produced diverse architectures -- from classical recurrent neural networks to modern Transformers and state space models (SSMs) -- yet a unified theoretical understanding of expressivity and trainability trade-offs remains limited. We introduce a unified framework that represen...
-
----
-
-### 10. [Accelerating High-Throughput Catalyst Screening by Direct Generation of Equilibrium Adsorption Structures](https://arxiv.org/abs/2512.15228)
-
-**Authors**: Songze Huo, Xiao-Ming Cao  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 2.0  
-**Type**: new  
-**ArXiv ID**: 2512.15228v1  
-
-#### Abstract
-The adsorption energy serves as a crucial descriptor for the large-scale screening of catalysts. Nevertheless, the limited distribution of training data for the extensively utilised machine learning interatomic potential (MLIP), predominantly sourced from near-equilibrium structures, results in unre...
-
----
-
-### 11. [Empirical Investigation of the Impact of Phase Information on Fault Diagnosis of Rotating Machinery](https://arxiv.org/abs/2512.15344)
-
-**Authors**: Hiroyoshi Nagahama, Katsufumi Inoue, Masayoshi Todorokihara, Michifumi Yoshioka  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 2.0  
-**Type**: new  
-**ArXiv ID**: 2512.15344v1  
-
-#### Abstract
-Predictive maintenance of rotating machinery increasingly relies on vibration signals, yet most learning-based approaches either discard phase during spectral feature extraction or use raw time-waveforms without explicitly leveraging phase information. This paper introduces two phase-aware preproces...
-
----
-
-### 12. [Metanetworks as Regulatory Operators: Learning to Edit for Requirement Compliance](https://arxiv.org/abs/2512.15469)
-
-**Authors**: Ioannis Kalogeropoulos, Giorgos Bouritsas, Yannis Panagakis  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 2.0  
-**Type**: new  
-**ArXiv ID**: 2512.15469v1  
-
-#### Abstract
-As machine learning models are increasingly deployed in high-stakes settings, e.g. as decision support systems in various societal sectors or in critical infrastructure, designers and auditors are facing the need to ensure that models satisfy a wider variety of requirements (e.g. compliance with reg...
-
----
-
-### 13. [SoFlow: Solution Flow Models for One-Step Generative Modeling](https://arxiv.org/abs/2512.15657)
-
-**Authors**: Tianze Luo, Haotian Yuan, Zhuang Liu  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 2.0  
-**Type**: new  
-**ArXiv ID**: 2512.15657v1  
-
-#### Abstract
-The multi-step denoising process in diffusion and Flow Matching models causes major efficiency issues, which motivates research on few-step generation. We present Solution Flow Models (SoFlow), a framework for one-step generation from scratch. By analyzing the relationship between the velocity funct...
-
----
-
-### 14. [HydroGEM: A Self Supervised Zero Shot Hybrid TCN Transformer Foundation Model for Continental Scale Streamflow Quality Control](https://arxiv.org/abs/2512.14106)
-
-**Authors**: Ijaz Ul Haq, Byung Suk Lee, Julia N. Perdrial, David Baude  
-**Category**: cs.AI  
-**Published**: 2025-12-18  
-**Score**: 1.5  
-**Type**: new  
-**ArXiv ID**: 2512.14106v1  
-
-#### Abstract
-Real-time streamflow monitoring networks generate millions of observations annually, yet maintaining data quality across thousands of remote sensors remains labor-intensive. We introduce HydroGEM (Hydrological Generalizable Encoder for Monitoring), a foundation model for continental-scale streamflow...
-
----
-
-### 15. [Optimizing Multi-Tier Supply Chain Ordering with a Hybrid Liquid Neural Network and Extreme Gradient Boosting Model](https://arxiv.org/abs/2512.14112)
-
-**Authors**: Chunan Tong  
-**Category**: cs.AI  
-**Published**: 2025-12-18  
-**Score**: 1.5  
-**Type**: new  
-**ArXiv ID**: 2512.14112v1  
-
-#### Abstract
-Supply chain management (SCM) faces significant challenges like demand fluctuations and the bullwhip effect. Traditional methods and even state-of-the-art LLMs struggle with benchmarks like the Vending Machine Test, failing to handle SCM's complex continuous time-series data. While ML approaches lik...
-
----
-
-### 16. [Sparse Multi-Modal Transformer with Masking for Alzheimer's Disease Classification](https://arxiv.org/abs/2512.14491)
-
-**Authors**: Cheng-Han Lu, Pei-Hsuan Tsai  
-**Category**: cs.AI  
-**Published**: 2025-12-18  
-**Score**: 1.5  
-**Type**: new  
-**ArXiv ID**: 2512.14491v1  
-
-#### Abstract
-Transformer-based multi-modal intelligent systems often suffer from high computational and energy costs due to dense self-attention, limiting their scalability under resource constraints. This paper presents SMMT, a sparse multi-modal transformer architecture designed to improve efficiency and robus...
-
----
-
-### 17. [HATSolver: Learning Groebner Bases with Hierarchical Attention Transformers](https://arxiv.org/abs/2512.14722)
-
-**Authors**: Mohamed Malhou, Ludovic Perret, Kristin Lauter  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.5  
-**Type**: new  
-**ArXiv ID**: 2512.14722v1  
-
-#### Abstract
-At NeurIPS 2024, Kera et al. introduced the use of transformers for computing Groebner bases, a central object in computer algebra with numerous practical applications. In this paper, we improve this approach by applying Hierarchical Attention Transformers (HATs) to solve systems of multivariate pol...
-
----
-
-### 18. [Quantum Decision Transformers (QDT): Synergistic Entanglement and Interference for Offline Reinforcement Learning](https://arxiv.org/abs/2512.14726)
+### 8. [Hybrid Quantum-Classical Ensemble Learning for S\&P 500 Directional Prediction](https://arxiv.org/abs/2512.15738)
 
 **Authors**: Abraham Itzhak Weinberg  
 **Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.5  
+**Published**: 2025-12-19  
+**Score**: 2.0  
 **Type**: new  
-**ArXiv ID**: 2512.14726v1  
+**ArXiv ID**: 2512.15738v1  
 
 #### Abstract
-Offline reinforcement learning enables policy learning from pre-collected datasets without environment interaction, but existing Decision Transformer (DT) architectures struggle with long-horizon credit assignment and complex state-action dependencies. We introduce the Quantum Decision Transformer (...
+Financial market prediction is a challenging application of machine learning, where even small improvements in directional accuracy can yield substantial value. Most models struggle to exceed 55--57\% accuracy due to high noise, non-stationarity, and market efficiency. We introduce a hybrid ensemble...
 
 ---
 
-### 19. [Robustness Evaluation of Machine Learning Models for Fault Classification and Localization In Power System Protection](https://arxiv.org/abs/2512.15385)
+### 9. [A Tutorial on Dimensionless Learning: Geometric Interpretation and the Effect of Noise](https://arxiv.org/abs/2512.15760)
 
-**Authors**: Julian Oelhaf, Mehran Pashaei, Georg Kordowich, Christian Bergler, Andreas Maier, Johann J\"ager, Siming Bayer  
+**Authors**: Zhengtao Jake Gan, Xiaoyu Xie  
 **Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.5  
+**Published**: 2025-12-19  
+**Score**: 2.0  
 **Type**: new  
-**ArXiv ID**: 2512.15385v1  
+**ArXiv ID**: 2512.15760v1  
 
 #### Abstract
-The growing penetration of renewable and distributed generation is transforming power systems and challenging conventional protection schemes that rely on fixed settings and local measurements. Machine learning (ML) offers a data-driven alternative for centralized fault classification (FC) and fault...
+Dimensionless learning is a data-driven framework for discovering dimensionless numbers and scaling laws from experimental measurements. This tutorial introduces the method, explaining how it transforms experimental data into compact physical laws that reveal compact dimensional invariance between v...
 
 ---
 
-### 20. [SLCFormer: Spectral-Local Context Transformer with Physics-Grounded Flare Synthesis for Nighttime Flare Removal](https://arxiv.org/abs/2512.15221)
+### 10. [TENG++: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets under General Boundary Conditions](https://arxiv.org/abs/2512.15771)
 
-**Authors**: Xiyu Zhu, Wei Wang, Xin Yuan, Xiao Wang  
-**Category**: cs.CV  
-**Published**: 2025-12-18  
-**Score**: 1.5  
-**Type**: new  
-**ArXiv ID**: 2512.15221v1  
-
-#### Abstract
-Lens flare is a common nighttime artifact caused by strong light sources scattering within camera lenses, leading to hazy streaks, halos, and glare that degrade visual quality. However, existing methods usually fail to effectively address nonuniform scattered flares, which severely reduces their app...
-
----
-
-### 21. [See It Before You Grab It: Deep Learning-based Action Anticipation in Basketball](https://arxiv.org/abs/2512.15386)
-
-**Authors**: Arnau Barrera Roy, Albert Clap\'es Sintes  
-**Category**: cs.CV  
-**Published**: 2025-12-18  
-**Score**: 1.5  
-**Type**: new  
-**ArXiv ID**: 2512.15386v1  
-
-#### Abstract
-Computer vision and video understanding have transformed sports analytics by enabling large-scale, automated analysis of game dynamics from broadcast footage. Despite significant advances in player and ball tracking, pose estimation, action localization, and automatic foul recognition, anticipating ...
-
----
-
-### 22. [Evaluation of deep learning architectures for wildlife object detection: A comparative study of ResNet and Inception](https://arxiv.org/abs/2512.15480)
-
-**Authors**: Malach Obisa Amonga, Benard Osero, Edna Too  
-**Category**: cs.CV  
-**Published**: 2025-12-18  
-**Score**: 1.5  
-**Type**: new  
-**ArXiv ID**: 2512.15480v1  
-
-#### Abstract
-Wildlife object detection plays a vital role in biodiversity conservation, ecological monitoring, and habitat protection. However, this task is often challenged by environmental variability, visual similarities among species, and intra-class diversity. This study investigates the effectiveness of tw...
-
----
-
-### 23. [RUMPL: Ray-Based Transformers for Universal Multi-View 2D to 3D Human Pose Lifting](https://arxiv.org/abs/2512.15488)
-
-**Authors**: Seyed Abolfazl Ghasemzadeh, Alexandre Alahi, Christophe De Vleeschouwer  
-**Category**: cs.CV  
-**Published**: 2025-12-18  
-**Score**: 1.5  
-**Type**: new  
-**ArXiv ID**: 2512.15488v1  
-
-#### Abstract
-Estimating 3D human poses from 2D images remains challenging due to occlusions and projective ambiguity. Multi-view learning-based approaches mitigate these issues but often fail to generalize to real-world scenarios, as large-scale multi-view datasets with 3D ground truth are scarce and captured un...
-
----
-
-### 24. [Adjudicator: Correcting Noisy Labels with a KG-Informed Council of LLM Agents](https://arxiv.org/abs/2512.13704)
-
-**Authors**: Doohee You, Sundeep Paul  
-**Category**: cs.AI  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.13704v1  
-
-#### Abstract
-The performance of production machine learning systems is fundamentally limited by the quality of their training data. In high-stakes industrial applications, noisy labels can degrade performance and erode user trust. This paper presents Adjudicator, a system that addresses the critical data mining ...
-
----
-
-### 25. [MURIM: Multidimensional Reputation-based Incentive Mechanism for Federated Learning](https://arxiv.org/abs/2512.13955)
-
-**Authors**: Sindhuja Madabushi, Dawood Wasif, Jin-Hee Cho  
-**Category**: cs.AI  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.13955v1  
-
-#### Abstract
-Federated Learning (FL) has emerged as a leading privacy-preserving machine learning paradigm, enabling participants to share model updates instead of raw data. However, FL continues to face key challenges, including weak client incentives, privacy risks, and resource constraints. Assessing client r...
-
----
-
-### 26. [Sparsity-Controllable Dynamic Top-p MoE for Large Foundation Model Pre-training](https://arxiv.org/abs/2512.13996)
-
-**Authors**: Can Jin, Hongwu Peng, Mingcan Xiang, Qixin Zhang, Xiangchi Yuan, Amit Hasan, Ohiremen Dibua, Yifan Gong, Yan Kang, Dimitris N. Metaxas  
-**Category**: cs.AI  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.13996v1  
-
-#### Abstract
-Sparse Mixture-of-Experts (MoE) architectures effectively scale model capacity by activating only a subset of experts for each input token. However, the standard Top-k routing strategy imposes a uniform sparsity pattern that ignores the varying difficulty of tokens. While Top-p routing offers a flex...
-
----
-
-### 27. [Universal Reasoning Model](https://arxiv.org/abs/2512.14693)
-
-**Authors**: Zitian Gao, Lynx Chen, Yihao Xiao, He Xing, Ran Tao, Haoming Luo, Joey Zhou, Bryan Dai  
-**Category**: cs.AI  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.14693v1  
-
-#### Abstract
-Universal transformers (UTs) have been widely used for complex reasoning tasks such as ARC-AGI and Sudoku, yet the specific sources of their performance gains remain underexplored. In this work, we systematically analyze UTs variants and show that improvements on ARC-AGI primarily arise from the rec...
-
----
-
-### 28. [How a Bit Becomes a Story: Semantic Steering via Differentiable Fault Injection](https://arxiv.org/abs/2512.14715)
-
-**Authors**: Zafaryab Haider, Md Hafizur Rahman, Shane Moeykens, Vijay Devabhaktuni, Prabuddha Chakraborty  
+**Authors**: Xinjie He, Chenggong Zhang  
 **Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
+**Published**: 2025-12-19  
+**Score**: 2.0  
 **Type**: new  
-**ArXiv ID**: 2512.14715v1  
+**ArXiv ID**: 2512.15771v1  
 
 #### Abstract
-Hard-to-detect hardware bit flips, from either malicious circuitry or bugs, have already been shown to make transformers vulnerable in non-generative tasks. This work, for the first time, investigates how low-level, bitwise perturbations (fault injection) to the weights of a large language model (LL...
+Partial Differential Equations (PDEs) are central to modeling complex systems across physical, biological, and engineering domains, yet traditional numerical methods often struggle with high-dimensional or complex problems. Physics-Informed Neural Networks (PINNs) have emerged as an efficient altern...
 
 ---
 
-### 29. [Generative Urban Flow Modeling: From Geometry to Airflow with Graph Diffusion](https://arxiv.org/abs/2512.14725)
-
-**Authors**: Francisco Giral, \'Alvaro Manzano, Ignacio G\'omez, Petros Koumoutsakos, Soledad Le Clainche  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.14725v1  
-
-#### Abstract
-Urban wind flow modeling and simulation play an important role in air quality assessment and sustainable city planning. A key challenge for modeling and simulation is handling the complex geometries of the urban landscape. Low order models are limited in capturing the effects of geometry, while high...
-
----
-
-### 30. [A Critical Perspective on Finite Sample Conformal Prediction Theory in Medical Applications](https://arxiv.org/abs/2512.14727)
-
-**Authors**: Klaus-Rudolf Kladny, Bernhard Sch\"olkopf, Lisa Koch, Christian F. Baumgartner, Michael Muehlebach  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.14727v1  
-
-#### Abstract
-Machine learning (ML) is transforming healthcare, but safe clinical decisions demand reliable uncertainty estimates that standard ML models fail to provide. Conformal prediction (CP) is a popular tool that allows users to turn heuristic uncertainty estimates into uncertainty estimates with statistic...
-
----
-
-### 31. [Evaluating Weather Forecasts from a Decision Maker's Perspective](https://arxiv.org/abs/2512.14779)
-
-**Authors**: Kornelius Raeth, Nicole Ludwig  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.14779v1  
-
-#### Abstract
-Standard weather forecast evaluations focus on the forecaster's perspective and on a statistical assessment comparing forecasts and observations. In practice, however, forecasts are used to make decisions, so it seems natural to take the decision-maker's perspective and quantify the value of a forec...
-
----
-
-### 32. [How Does Fourier Analysis Network Work? A Mechanism Analysis and a New Dual-Activation Layer Proposal](https://arxiv.org/abs/2512.14873)
-
-**Authors**: Sam Jeong, Hae Yong Kim  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.14873v1  
-
-#### Abstract
-Fourier Analysis Network (FAN) was recently proposed as a simple way to improve neural network performance by replacing part of ReLU activations with sine and cosine functions. Although several studies have reported small but consistent gains across tasks, the underlying mechanism behind these impro...
-
----
-
-### 33. [ATLAS: Adaptive Topology-based Learning at Scale for Homophilic and Heterophilic Graphs](https://arxiv.org/abs/2512.14908)
-
-**Authors**: Turja Kundu, Sanjukta Bhowmick  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.14908v1  
-
-#### Abstract
-We present ATLAS (Adaptive Topology-based Learning at Scale for Homophilic and Heterophilic Graphs), a novel graph learning algorithm that addresses two important challenges in graph neural networks (GNNs). First, the accuracy of GNNs degrades when the graph is heterophilic. Second, iterative featur...
-
----
-
-### 34. [Spectral Representation-based Reinforcement Learning](https://arxiv.org/abs/2512.15036)
-
-**Authors**: Chenxiao Gao, Haotian Sun, Na Li, Dale Schuurmans, Bo Dai  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15036v1  
-
-#### Abstract
-In real-world applications with large state and action spaces, reinforcement learning (RL) typically employs function approximations to represent core components like the policies, value functions, and dynamics models. Although powerful approximations such as neural networks offer great expressivene...
-
----
-
-### 35. [Neural Modular Physics for Elastic Simulation](https://arxiv.org/abs/2512.15083)
-
-**Authors**: Yifei Li, Haixu Wu, Zeyi Xu, Tuur Stuyck, Wojciech Matusik  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15083v1  
-
-#### Abstract
-Learning-based methods have made significant progress in physics simulation, typically approximating dynamics with a monolithic end-to-end optimized neural network. Although these models offer an effective way to simulation, they may lose essential features compared to traditional numerical simulato...
-
----
-
-### 36. [FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation](https://arxiv.org/abs/2512.15116)
-
-**Authors**: Runze Li, Hanchen Wang, Wenjie Zhang, Binghao Li, Yu Zhang, Xuemin Lin, Ying Zhang  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15116v1  
-
-#### Abstract
-Multivariate time series imputation is fundamental in applications such as healthcare, traffic forecasting, and biological modeling, where sensor failures and irregular sampling lead to pervasive missing values. However, existing Transformer- and diffusion-based models lack explicit inductive biases...
-
----
-
-### 37. [Automatic Reward Shaping from Multi-Objective Human Heuristics](https://arxiv.org/abs/2512.15120)
-
-**Authors**: Yuqing Xie, Jiayu Chen, Wenhao Tang, Ya Zhang, Chao Yu, Yu Wang  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15120v1  
-
-#### Abstract
-Designing effective reward functions remains a central challenge in reinforcement learning, especially in multi-objective environments. In this work, we propose Multi-Objective Reward Shaping with Exploration (MORSE), a general framework that automatically combines multiple human-designed heuristic ...
-
----
-
-### 38. [TrajSyn: Privacy-Preserving Dataset Distillation from Federated Model Trajectories for Server-Side Adversarial Training](https://arxiv.org/abs/2512.15123)
-
-**Authors**: Mukur Gupta, Niharika Gupta, Saifur Rahman, Shantanu Pal, Chandan Karmakar  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15123v1  
-
-#### Abstract
-Deep learning models deployed on edge devices are increasingly used in safety-critical applications. However, their vulnerability to adversarial perturbations poses significant risks, especially in Federated Learning (FL) settings where identical models are distributed across thousands of clients. W...
-
----
-
-### 39. [From Isolation to Entanglement: When Do Interpretability Methods Identify and Disentangle Known Concepts?](https://arxiv.org/abs/2512.15134)
-
-**Authors**: Aaron Mueller, Andrew Lee, Shruti Joshi, Ekdeep Singh Lubana, Dhanya Sridhar, Patrik Reizinger  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15134v1  
-
-#### Abstract
-A central goal of interpretability is to recover representations of causally relevant concepts from the activations of neural networks. The quality of these concept representations is typically evaluated in isolation, and under implicit independence assumptions that may not hold in practice. Thus, i...
-
----
-
-### 40. [An Efficient Gradient-Based Inference Attack for Federated Learning](https://arxiv.org/abs/2512.15143)
-
-**Authors**: Pablo Monta\~na-Fern\'andez, Ines Ortega-Fernandez  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15143v1  
-
-#### Abstract
-Federated Learning is a machine learning setting that reduces direct data exposure, improving the privacy guarantees of machine learning models. Yet, the exchange of model updates between the participants and the aggregator can still leak sensitive information. In this work, we present a new gradien...
-
----
-
-### 41. [Bits for Privacy: Evaluating Post-Training Quantization via Membership Inference](https://arxiv.org/abs/2512.15335)
-
-**Authors**: Chenxiang Zhang, Tongxi Qu, Zhong Li, Tian Zhang, Jun Pang, Sjouke Mauw  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15335v1  
-
-#### Abstract
-Deep neural networks are widely deployed with quantization techniques to reduce memory and computational costs by lowering the numerical precision of their parameters. While quantization alters model parameters and their outputs, existing privacy analyses primarily focus on full-precision models, le...
-
----
-
-### 42. [Statistics of Min-max Normalized Eigenvalues in Random Matrices](https://arxiv.org/abs/2512.15427)
-
-**Authors**: Hyakka Nakada, Shu Tanaka  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15427v1  
-
-#### Abstract
-Random matrix theory has played an important role in various areas of pure mathematics, mathematical physics, and machine learning. From a practical perspective of data science, input data are usually normalized prior to processing. Thus, this study investigates the statistical properties of min-max...
-
----
-
-### 43. [Multi-stage Bayesian optimisation for dynamic decision-making in self-driving labs](https://arxiv.org/abs/2512.15483)
-
-**Authors**: Luca Torresi, Pascal Friederich  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15483v1  
-
-#### Abstract
-Self-driving laboratories (SDLs) are combining recent technological advances in robotics, automation, and machine learning based data analysis and decision-making to perform autonomous experimentation toward human-directed goals without requiring any direct human intervention. SDLs are successfully ...
-
----
-
-### 44. [Soft Geometric Inductive Bias for Object Centric Dynamics](https://arxiv.org/abs/2512.15493)
-
-**Authors**: Hampus Linander, Conor Heins, Alexander Tschantz, Marco Perin, Christopher Buckley  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15493v1  
-
-#### Abstract
-Equivariance is a powerful prior for learning physical dynamics, yet exact group equivariance can degrade performance if the symmetries are broken. We propose object-centric world models built with geometric algebra neural networks, providing a soft geometric inductive bias. Our models are evaluated...
-
----
-
-### 45. [How Smoothing is N-simplicial Attention?](https://arxiv.org/abs/2512.15600)
-
-**Authors**: Alexandre Dussolle, Pietro Li\`o  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15600v1  
-
-#### Abstract
-Going from pure Multilayer Perceptron (MLP) to a learnable graph message-passing mechanism at each layer has been foundational to state-of-the-art results, despite the computational trade-off (e.g. GATs or Transformers). To go a step further, in this work, we introduce N-simplicial attention, going ...
-
----
-
-### 46. [Multi-Modal Semantic Communication](https://arxiv.org/abs/2512.15691)
-
-**Authors**: Matin Mortaheb, Erciyes Karakaya, Sennur Ulukus  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15691v1  
-
-#### Abstract
-Semantic communication aims to transmit information most relevant to a task rather than raw data, offering significant gains in communication efficiency for applications such as telepresence, augmented reality, and remote sensing. Recent transformer-based approaches have used self-attention maps to ...
-
----
-
-### 47. [Learning Model Parameter Dynamics in a Combination Therapy for Bladder Cancer from Sparse Biological Data](https://arxiv.org/abs/2512.15706)
-
-**Authors**: Kayode Olumoyin, Lamees El Naqa, Katarzyna Rejniak  
-**Category**: cs.LG  
-**Published**: 2025-12-18  
-**Score**: 1.0  
-**Type**: new  
-**ArXiv ID**: 2512.15706v1  
-
-#### Abstract
-In a mathematical model of interacting biological organisms, where external interventions may alter behavior over time, traditional models that assume fixed parameters usually do not capture the evolving dynamics. In oncology, this is further exacerbated by the fact that experimental data are often ...
-
----
-
-### 48. [Multiscale Aggregated Hierarchical Attention (MAHA): A Game Theoretic and Optimization Driven Approach to Efficient Contextual Modeling in Large Language Models](https://arxiv.org/abs/2512.14925)
+### 11. [Dynamic Rank Reinforcement Learning for Adaptive Low-Rank Multi-Head Self Attention in Large Language Models](https://arxiv.org/abs/2512.15973)
 
 **Authors**: Caner Erden  
-**Category**: cs.CL  
-**Published**: 2025-12-18  
-**Score**: 1.0  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 2.0  
 **Type**: new  
-**ArXiv ID**: 2512.14925v1  
+**ArXiv ID**: 2512.15973v1  
 
 #### Abstract
-The quadratic computational complexity of MultiHead SelfAttention (MHSA) remains a fundamental bottleneck in scaling Large Language Models (LLMs) for longcontext tasks. While sparse and linearized attention mechanisms attempt to mitigate this, they often compromise the representation of global depen...
+We propose Dynamic Rank Reinforcement Learning (DR-RL), a novel framework that adaptively optimizes the low-rank factorization of Multi-Head Self-Attention (MHSA) in Large Language Models (LLMs) through the integration of reinforcement learning and online matrix perturbation theory. While traditiona...
 
 ---
 
-### 49. [Yes-MT's Submission to the Low-Resource Indic Language Translation Shared Task in WMT 2024](https://arxiv.org/abs/2512.15226)
+### 12. [In-Context Multi-Operator Learning with DeepOSets](https://arxiv.org/abs/2512.16074)
 
-**Authors**: Yash Bhaskar, Parameswari Krishnamurthy  
-**Category**: cs.CL  
-**Published**: 2025-12-18  
-**Score**: 1.0  
+**Authors**: Shao-Ting Chiu, Aditya Nambiar, Ali Syed, Jonathan W. Siegel, Ulisses Braga-Neto  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 2.0  
 **Type**: new  
-**ArXiv ID**: 2512.15226v1  
+**ArXiv ID**: 2512.16074v1  
 
 #### Abstract
-This paper presents the systems submitted by the Yes-MT team for the Low-Resource Indic Language Translation Shared Task at WMT 2024 (Pakray et al., 2024), focusing on translating between English and the Assamese, Mizo, Khasi, and Manipuri languages. The experiments explored various approaches, incl...
+In-context Learning (ICL) is the remarkable capability displayed by some machine learning models to learn from examples in a prompt, without any further weight updates. ICL had originally been thought to emerge from the self-attention mechanism in autoregressive transformer architectures. DeepOSets ...
 
 ---
 
-### 50. [Learning inflection classes using Adaptive Resonance Theory](https://arxiv.org/abs/2512.15551)
+### 13. [IoMT-based Automated Leukemia Classification using CNN and Higher Order Singular Value](https://arxiv.org/abs/2512.16448)
 
-**Authors**: Peter Dekker, Heikki Rasilo, Bart de Boer  
-**Category**: cs.CL  
-**Published**: 2025-12-18  
-**Score**: 1.0  
+**Authors**: Shabnam Bagheri Marzijarani, Mohammad Zolfaghari, Hedieh Sajedi  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 2.0  
 **Type**: new  
-**ArXiv ID**: 2512.15551v1  
+**ArXiv ID**: 2512.16448v1  
 
 #### Abstract
-The concept of inflection classes is an abstraction used by linguists, and provides a means to describe patterns in languages that give an analogical base for deducing previously unencountered forms. This ability is an important part of morphological acquisition and processing. We study the learnabi...
+The Internet of Things (IoT) is a concept by which objects find identity and can communicate with each other in a network. One of the applications of the IoT is in the field of medicine, which is called the Internet of Medical Things (IoMT). Acute Lymphocytic Leukemia (ALL) is a type of cancer categ...
+
+---
+
+### 14. [ResDynUNet++: A nested U-Net with residual dynamic convolution blocks for dual-spectral CT](https://arxiv.org/abs/2512.16140)
+
+**Authors**: Ze Yuan, Wenbin Li, Shusen Zhao  
+**Category**: cs.CV  
+**Published**: 2025-12-19  
+**Score**: 2.0  
+**Type**: new  
+**ArXiv ID**: 2512.16140v1  
+
+#### Abstract
+We propose a hybrid reconstruction framework for dual-spectral CT (DSCT) that integrates iterative methods with deep learning models. The reconstruction process consists of two complementary components: a knowledge-driven module and a data-driven module. In the knowledge-driven phase, we employ the ...
+
+---
+
+### 15. [Radiology Report Generation with Layer-Wise Anatomical Attention](https://arxiv.org/abs/2512.16841)
+
+**Authors**: Emmanuel D. Mu\~niz-De-Le\'on, Jorge A. Rosales-de-Golferichs, Ana S. Mu\~noz-Rodr\'iguez, Alejandro I. Trejo-Castro, Eduardo de Avila-Armenta, Antonio Mart\'inez-Torteya  
+**Category**: cs.CV  
+**Published**: 2025-12-19  
+**Score**: 2.0  
+**Type**: new  
+**ArXiv ID**: 2512.16841v1  
+
+#### Abstract
+Automatic radiology report generation is a promising application of multimodal deep learning, aiming to reduce reporting workload and improve consistency. However, current state-of-the-art (SOTA) systems - such as Multimodal AI for Radiology Applications (MAIRA-2) and Medical Pathways Language Model...
+
+---
+
+### 16. [Attention as Binding: A Vector-Symbolic Perspective on Transformer Reasoning](https://arxiv.org/abs/2512.14709)
+
+**Authors**: Sahil Rajesh Dhayalkar  
+**Category**: cs.AI  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.14709v1  
+
+#### Abstract
+Transformer-based language models display impressive reasoning-like behavior, yet remain brittle on tasks that require stable symbolic manipulation. This paper develops a unified perspective on these phenomena by interpreting self-attention and residual streams as implementing an approximate Vector ...
+
+---
+
+### 17. [LADY: Linear Attention for Autonomous Driving Efficiency without Transformers](https://arxiv.org/abs/2512.15038)
+
+**Authors**: Jihao Huang, Xi Xia, Zhiyuan Li, Tianle Liu, Jingke Wang, Junbo Chen, Tengju Ye  
+**Category**: cs.AI  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.15038v2  
+
+#### Abstract
+End-to-end paradigms have demonstrated great potential for autonomous driving. Additionally, most existing methods are built upon Transformer architectures. However, transformers incur a quadratic attention cost, limiting their ability to model long spatial and temporal sequences-particularly on res...
+
+---
+
+### 18. [Machine Learning Framework for Thrombosis Risk Prediction in Rotary Blood Pumps](https://arxiv.org/abs/2512.15761)
+
+**Authors**: Christopher Blum, Michael Neidlin  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.15761v1  
+
+#### Abstract
+Thrombosis in rotary blood pumps arises from complex flow conditions that remain difficult to translate into reliable and interpretable risk predictions using existing computational models. This limitation reflects an incomplete understanding of how specific flow features contribute to thrombus init...
+
+---
+
+### 19. [Bridging Data and Physics: A Graph Neural Network-Based Hybrid Twin Framework](https://arxiv.org/abs/2512.15767)
+
+**Authors**: M. Gorpinich (Valeo, PIMM Lab. ENSAM Institute of Technology), B. Moya (PIMM Lab. ENSAM Institute of Technology), S. Rodriguez (PIMM Lab. ENSAM Institute of Technology), F. Meraghni (PIMM Lab. ENSAM Institute of Technology), Y. Jaafra (Valeo), A. Briot (Valeo), M. Henner (Valeo), R. Leon (Valeo), F. Chinesta (PIMM Lab. ENSAM Institute of Technology, CNRS@CREATE LTD. Singapore)  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.15767v1  
+
+#### Abstract
+Simulating complex unsteady physical phenomena relies on detailed mathematical models, simulated for instance by using the Finite Element Method (FEM). However, these models often exhibit discrepancies from the reality due to unmodeled effects or simplifying assumptions. We refer to this gap as the ...
+
+---
+
+### 20. [Adversarial Robustness in Financial Machine Learning: Defenses, Economic Impact, and Governance Evidence](https://arxiv.org/abs/2512.15780)
+
+**Authors**: Samruddhi Baviskar  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.15780v1  
+
+#### Abstract
+We evaluate adversarial robustness in tabular machine learning models used in financial decision making. Using credit scoring and fraud detection data, we apply gradient based attacks and measure impacts on discrimination, calibration, and financial risk metrics. Results show notable performance deg...
+
+---
+
+### 21. [AIE4ML: An End-to-End Framework for Compiling Neural Networks for the Next Generation of AMD AI Engines](https://arxiv.org/abs/2512.15946)
+
+**Authors**: Dimitrios Danopoulos, Enrico Lupi, Chang Sun, Sebastian Dittmeier, Michael Kagan, Vladimir Loncar, Maurizio Pierini  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.15946v1  
+
+#### Abstract
+Efficient AI inference on AMD's Versal AI Engine (AIE) is challenging due to tightly coupled VLIW execution, explicit datapaths, and local memory management. Prior work focused on first-generation AIE kernel optimizations, without tackling full neural network execution across the 2D array. In this w...
+
+---
+
+### 22. [Towards Fine-Tuning-Based Site Calibration for Knowledge-Guided Machine Learning: A Summary of Results](https://arxiv.org/abs/2512.16013)
+
+**Authors**: Ruolei Zeng, Arun Sharma, Shuai An, Mingzhou Yang, Shengya Zhang, Licheng Liu, David Mulla, Shashi Shekhar  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16013v1  
+
+#### Abstract
+Accurate and cost-effective quantification of the agroecosystem carbon cycle at decision-relevant scales is essential for climate mitigation and sustainable agriculture. However, both transfer learning and the exploitation of spatial variability in this field are challenging, as they involve heterog...
+
+---
+
+### 23. [A Multi-scale Fused Graph Neural Network with Inter-view Contrastive Learning for Spatial Transcriptomics Data Clustering](https://arxiv.org/abs/2512.16188)
+
+**Authors**: Jianping Mei, Siqi Ai, Ye Yuan  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16188v1  
+
+#### Abstract
+Spatial transcriptomics enables genome-wide expression analysis within native tissue context, yet identifying spatial domains remains challenging due to complex gene-spatial interactions. Existing methods typically process spatial and feature views separately, fusing only at output level - an "encod...
+
+---
+
+### 24. [Multi-Fidelity Delayed Acceptance: hierarchical MCMC sampling for Bayesian inverse problems combining multiple solvers through deep neural networks](https://arxiv.org/abs/2512.16430)
+
+**Authors**: Filippo Zacchei, Paolo Conti, Attilio Alberto Frangi, Andrea Manzoni  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16430v1  
+
+#### Abstract
+Inverse uncertainty quantification (UQ) tasks such as parameter estimation are computationally demanding whenever dealing with physics-based models, and typically require repeated evaluations of complex numerical solvers. When partial differential equations are involved, full-order models such as th...
+
+---
+
+### 25. [Batch Normalization-Free Fully Integer Quantized Neural Networks via Progressive Tandem Learning](https://arxiv.org/abs/2512.16476)
+
+**Authors**: Pengfei Sun, Wenyu Jiang, Piew Yoong Chee, Paul Devos, Dick Botteldooren  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16476v1  
+
+#### Abstract
+Quantised neural networks (QNNs) shrink models and reduce inference energy through low-bit arithmetic, yet most still depend on a running statistics batch normalisation (BN) layer, preventing true integer-only deployment. Prior attempts remove BN by parameter folding or tailored initialisation; whil...
+
+---
+
+### 26. [CLARiTy: A Vision Transformer for Multi-Label Classification and Weakly-Supervised Localization of Chest X-ray Pathologies](https://arxiv.org/abs/2512.16700)
+
+**Authors**: John M. Statheros, Hairong Wang, Richard Klein  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16700v1  
+
+#### Abstract
+The interpretation of chest X-rays (CXRs) poses significant challenges, particularly in achieving accurate multi-label pathology classification and spatial localization. These tasks demand different levels of annotation granularity but are frequently constrained by the scarcity of region-level (dens...
+
+---
+
+### 27. [Machine Learning Algorithms: Detection Official Hajj and Umrah Travel Agency Based on Text and Metadata Analysis](https://arxiv.org/abs/2512.16742)
+
+**Authors**: Wisnu Uriawan, Muhamad Veva Ramadhan, Firman Adi Nugraha, Hasbi Nur Wahid, M Dantha Arianvasya, Muhammad Zaki Alghifari  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16742v1  
+
+#### Abstract
+The rapid digitalization of Hajj and Umrah services in Indonesia has significantly facilitated pilgrims but has concurrently opened avenues for digital fraud through counterfeit mobile applications. These fraudulent applications not only inflict financial losses but also pose severe privacy risks by...
+
+---
+
+### 28. [LLMCache: Layer-Wise Caching Strategies for Accelerated Reuse in Transformer Inference](https://arxiv.org/abs/2512.16843)
+
+**Authors**: Harsh Vardhan Bansal  
+**Category**: cs.CL  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16843v1  
+
+#### Abstract
+Transformer-based language models have achieved remarkable performance across a wide range of tasks, yet their high inference latency poses a significant challenge for real-timeand large-scale deployment. While existing caching mechanisms,such as token-level key-value caches, offer speedups in autor...
+
+---
+
+### 29. [Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](https://arxiv.org/abs/2512.16615)
+
+**Authors**: Yifan Zhou, Zeqi Xiao, Tianyi Wei, Shuai Yang, Xingang Pan  
+**Category**: cs.CV  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16615v1  
+
+#### Abstract
+Diffusion Transformers (DiTs) set the state of the art in visual generation, yet their quadratic self-attention cost fundamentally limits scaling to long token sequences. Recent Top-K sparse attention approaches reduce the computation of DiTs by compressing tokens into block-wise representation and ...
+
+---
+
+### 30. [DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625)
+
+**Authors**: Linghui Shen, Mingyue Cui, Xingyi Yang  
+**Category**: cs.CV  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16625v1  
+
+#### Abstract
+In-context diffusion models allow users to modify images with remarkable ease and realism. However, the same power raises serious privacy concerns: personal images can be easily manipulated for identity impersonation, misinformation, or other malicious uses, all without the owner's consent. While pr...
+
+---
+
+### 31. [DVGT: Driving Visual Geometry Transformer](https://arxiv.org/abs/2512.16919)
+
+**Authors**: Sicheng Zuo, Zixun Xie, Wenzhao Zheng, Shaoqing Xu, Fang Li, Shengyin Jiang, Long Chen, Zhi-Xin Yang, Jiwen Lu  
+**Category**: cs.CV  
+**Published**: 2025-12-19  
+**Score**: 1.5  
+**Type**: new  
+**ArXiv ID**: 2512.16919v1  
+
+#### Abstract
+Perceiving and reconstructing 3D scene geometry from visual inputs is crucial for autonomous driving. However, there still lacks a driving-targeted dense geometry perception model that can adapt to different scenarios and camera configurations. To bridge this gap, we propose a Driving Visual Geometr...
+
+---
+
+### 32. [Graph Contextual Reinforcement Learning for Efficient Directed Controller Synthesis](https://arxiv.org/abs/2512.15295)
+
+**Authors**: Toshihide Ubukata, Enhong Mu, Takuto Yamauchi, Mingyue Zhang, Jialong Li, Kenji Tei  
+**Category**: cs.AI  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15295v1  
+
+#### Abstract
+Controller synthesis is a formal method approach for automatically generating Labeled Transition System (LTS) controllers that satisfy specified properties. The efficiency of the synthesis process, however, is critically dependent on exploration policies. These policies often rely on fixed rules or ...
+
+---
+
+### 33. [Artism: AI-Driven Dual-Engine System for Art Generation and Critique](https://arxiv.org/abs/2512.15710)
+
+**Authors**: Shuai Liu, Yiqing Tian, Yang Chen, Mar Canet Sola  
+**Category**: cs.AI  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15710v1  
+
+#### Abstract
+This paper proposes a dual-engine AI architectural method designed to address the complex problem of exploring potential trajectories in the evolution of art. We present two interconnected components: AIDA (an artificial artist social network) and the Ismism Machine, a system for critical analysis. ...
+
+---
+
+### 34. [Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712)
+
+**Authors**: Vincent Huang, Dami Choi, Daniel D. Johnson, Sarah Schwettmann, Jacob Steinhardt  
+**Category**: cs.AI  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15712v1  
+
+#### Abstract
+Interpreting the internal activations of neural networks can produce more faithful explanations of their behavior, but is difficult due to the complex structure of activation space. Existing approaches to scalable interpretability use hand-designed agents that make and test hypotheses about how inte...
+
+---
+
+### 35. [How Do Graph Signals Affect Recommendation: Unveiling the Mystery of Low and High-Frequency Graph Signals](https://arxiv.org/abs/2512.15744)
+
+**Authors**: Feng Liu, Hao Cang, Huanhuan Yuan, Jiaqing Fan, Yongjing Hao, Fuzhen Zhuang, Guanfeng Liu, Pengpeng Zhao  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15744v1  
+
+#### Abstract
+Spectral graph neural networks (GNNs) are highly effective in modeling graph signals, with their success in recommendation often attributed to low-pass filtering. However, recent studies highlight the importance of high-frequency signals. The role of low-frequency and high-frequency graph signals in...
+
+---
+
+### 36. [A Special Case of Quadratic Extrapolation Under the Neural Tangent Kernel](https://arxiv.org/abs/2512.15749)
+
+**Authors**: Abiel Kim  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15749v1  
+
+#### Abstract
+It has been demonstrated both theoretically and empirically that the ReLU MLP tends to extrapolate linearly for an out-of-distribution evaluation point. The machine learning literature provides ample analysis with respect to the mechanisms to which linearity is induced. However, the analysis of extr...
+
+---
+
+### 37. [TAO-Net: Two-stage Adaptive OOD Classification Network for Fine-grained Encrypted Traffic Classification](https://arxiv.org/abs/2512.15753)
+
+**Authors**: Zihao Wang, Wei Peng, Junming Zhang, Jian Li, Wenxin Fang  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15753v1  
+
+#### Abstract
+Encrypted traffic classification aims to identify applications or services by analyzing network traffic data. One of the critical challenges is the continuous emergence of new applications, which generates Out-of-Distribution (OOD) traffic patterns that deviate from known categories and are not well...
+
+---
+
+### 38. [Twin Restricted Kernel Machines for Multiview Classification](https://arxiv.org/abs/2512.15757)
+
+**Authors**: A. Quadir, M. Sajid, Mushir Akhtar, M. Tanveer  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15757v1  
+
+#### Abstract
+Multi-view learning (MVL) is an emerging field in machine learning that focuses on improving generalization performance by leveraging complementary information from multiple perspectives or views. Various multi-view support vector machine (MvSVM) approaches have been developed, demonstrating signifi...
+
+---
+
+### 39. [Yantra AI -- An intelligence platform which interacts with manufacturing operations](https://arxiv.org/abs/2512.15758)
+
+**Authors**: Varshini Krishnamurthy  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15758v1  
+
+#### Abstract
+Industry 4.0 is growing quickly, which has changed smart production by encouraging the use of real-time tracking, machine learning, and AI-driven systems to make operations run more smoothly. The main focus of this dissertation is on creating and testing an intelligent production system for XRIT tha...
+
+---
+
+### 40. [Data Valuation for LLM Fine-Tuning: Efficient Shapley Value Approximation via Language Model Arithmetic](https://arxiv.org/abs/2512.15765)
+
+**Authors**: M\'elissa Tamine, Otmane Sakhi, Benjamin Heymann  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15765v1  
+
+#### Abstract
+Data is a critical asset for training large language models (LLMs), alongside compute resources and skilled workers. While some training data is publicly available, substantial investment is required to generate proprietary datasets, such as human preference annotations or to curate new ones from ex...
+
+---
+
+### 41. [TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration](https://arxiv.org/abs/2512.15773)
+
+**Authors**: Ye Li, Jiahe Feng, Yuan Meng, Kangye Ji, Chen Tang, Xinwan Wen, Shutao Xia, Zhi Wang, Wenwu Zhu  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15773v1  
+
+#### Abstract
+Diffusion Policy (DP) excels in embodied control but suffers from high inference latency and computational cost due to multiple iterative denoising steps. The temporal complexity of embodied tasks demands a dynamic and adaptable computation mode. Static and lossy acceleration methods, such as quanti...
+
+---
+
+### 42. [Boosting t-SNE Efficiency for Sequencing Data: Insights from Kernel Selection](https://arxiv.org/abs/2512.15900)
+
+**Authors**: Avais Jan, Prakash Chourasia, Sarwan Ali, Murray Patterson  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15900v1  
+
+#### Abstract
+Dimensionality reduction techniques are essential for visualizing and analyzing high-dimensional biological sequencing data. t-distributed Stochastic Neighbor Embedding (t-SNE) is widely used for this purpose, traditionally employing the Gaussian kernel to compute pairwise similarities. However, the...
+
+---
+
+### 43. [In-Context Semi-Supervised Learning](https://arxiv.org/abs/2512.15934)
+
+**Authors**: Jiashuo Fan, Paul Rosu, Aaron T. Wang, Michael Li, Lawrence Carin, Xiang Cheng  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15934v1  
+
+#### Abstract
+There has been significant recent interest in understanding the capacity of Transformers for in-context learning (ICL), yet most theory focuses on supervised settings with explicitly labeled pairs. In practice, Transformers often perform well even when labels are sparse or absent, suggesting crucial...
+
+---
+
+### 44. [Provably Extracting the Features from a General Superposition](https://arxiv.org/abs/2512.15987)
+
+**Authors**: Allen Liu  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15987v1  
+
+#### Abstract
+It is widely believed that complex machine learning models generally encode features through linear representations, but these features exist in superposition, making them challenging to recover. We study the following fundamental setting for learning features in superposition from black-box query a...
+
+---
+
+### 45. [Surrogate Neural Architecture Codesign Package (SNAC-Pack)](https://arxiv.org/abs/2512.15998)
+
+**Authors**: Jason Weitz, Dmitri Demler, Benjamin Hawks, Nhan Tran, Javier Duarte  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.15998v1  
+
+#### Abstract
+Neural Architecture Search is a powerful approach for automating model design, but existing methods struggle to accurately optimize for real hardware performance, often relying on proxy metrics such as bit operations. We present Surrogate Neural Architecture Codesign Package (SNAC-Pack), an integrat...
+
+---
+
+### 46. [Explainable AI in Big Data Fraud Detection](https://arxiv.org/abs/2512.16037)
+
+**Authors**: Ayush Jain, Rahul Kulkarni, Siyi Lin  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.16037v1  
+
+#### Abstract
+Big Data has become central to modern applications in finance, insurance, and cybersecurity, enabling machine learning systems to perform large-scale risk assessments and fraud detection. However, the increasing dependence on automated analytics introduces important concerns about transparency, regu...
+
+---
+
+### 47. [CauSTream: Causal Spatio-Temporal Representation Learning for Streamflow Forecasting](https://arxiv.org/abs/2512.16046)
+
+**Authors**: Shu Wan, Reepal Shah, John Sabo, Huan Liu, K. Sel\c{c}uk Candan  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.16046v1  
+
+#### Abstract
+Streamflow forecasting is crucial for water resource management and risk mitigation. While deep learning models have achieved strong predictive performance, they often overlook underlying physical processes, limiting interpretability and generalization. Recent causal learning approaches address thes...
+
+---
+
+### 48. [BUILD with Precision: Bottom-Up Inference of Linear DAGs](https://arxiv.org/abs/2512.16111)
+
+**Authors**: Hamed Ajorlou, Samuel Rey, Gonzalo Mateos, Geert Leus, Antonio G. Marques  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.16111v1  
+
+#### Abstract
+Learning the structure of directed acyclic graphs (DAGs) from observational data is a central problem in causal discovery, statistical signal processing, and machine learning. Under a linear Gaussian structural equation model (SEM) with equal noise variances, the problem is identifiable and we show ...
+
+---
+
+### 49. [A Multimodal Approach to Alzheimer's Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments](https://arxiv.org/abs/2512.16184)
+
+**Authors**: Jaeho Yang, Kijung Yoon  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.16184v1  
+
+#### Abstract
+Early and accessible detection of Alzheimer's disease (AD) remains a critical clinical challenge, and cube-copying tasks offer a simple yet informative assessment of visuospatial function. This work proposes a multimodal framework that converts hand-drawn cube sketches into graph-structured represen...
+
+---
+
+### 50. [Neural emulation of gravity-driven geohazard runout](https://arxiv.org/abs/2512.16221)
+
+**Authors**: Lorenzo Nava, Ye Chen, Maximillian Van Wyk de Vries  
+**Category**: cs.LG  
+**Published**: 2025-12-19  
+**Score**: 1.0  
+**Type**: new  
+**ArXiv ID**: 2512.16221v1  
+
+#### Abstract
+Predicting geohazard runout is critical for protecting lives, infrastructure and ecosystems. Rapid mass flows, including landslides and avalanches, cause several thousand deaths across a wide range of environments, often travelling many kilometres from their source. The wide range of source conditio...
 
 ---
 
