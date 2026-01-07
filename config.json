@@ -6,6 +6,8 @@
         "cs.LG"
     ],
     "keywords": [
+        "kv cache",
+        "offload",
         "State Space",
         "SSM",
         "framework",
